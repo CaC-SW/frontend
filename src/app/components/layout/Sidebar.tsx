@@ -5,7 +5,7 @@ const navItems = [
   "Job Postings",
   "SHL Practice",
   "Interview Prep",
-  "Mock Test",
+  "Quiz",
   "Contact CAC",
 ];
 
